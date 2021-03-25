@@ -7,9 +7,9 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
 
 # Webapp input..user reviews and output positive or negative
 
-![picture](https://github.com/Rizwanhcc/Movie-Review/blob/main/Project/Screenshot%202021-03-12%20at%2018.58.32.png)
+![picture](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Movie-Review-RNN-XGBoost/images/Screenshot1.png)
 
-![picture](https://github.com/Rizwanhcc/Movie-Review/blob/main/Project/Screenshot%202021-03-12%20at%2018.59.43.png)
+![picture](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Movie-Review-RNN-XGBoost/images/Screenshot2.png)
 
 
 
