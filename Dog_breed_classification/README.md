@@ -108,10 +108,10 @@ In the previous step I developed an algorithm to predict whether the image (inpu
 * In third situation if neither is detected it may return an error message.
 
 
-![picture](https://github.com/Rizwanhcc/Dog_breed_classification/blob/main/Images/1.png)
-![picture2](https://github.com/Rizwanhcc/Dog_breed_classification/blob/main/Images/2.png)
-![picture3](https://github.com/Rizwanhcc/Dog_breed_classification/blob/main/Images/3.png)
-![picture4](https://github.com/Rizwanhcc/Dog_breed_classification/blob/main/Images/4.png)
+![picture](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Dog_breed_classification/Images/1.png)
+![picture2](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Dog_breed_classification/Images/2.png)
+![picture3](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Dog_breed_classification/Images/3.png)
+![picture4](https://github.com/Rizwanhcc/Machine-Learning-Engineer/blob/main/Dog_breed_classification/Images/4.png)
 
 <a id='tree'></a>
 
